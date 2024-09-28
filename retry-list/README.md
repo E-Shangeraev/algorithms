@@ -5,3 +5,4 @@
 896 Monotonic Array - https://leetcode.com/problems/monotonic-array/
 560 Subarray Sum Equals K - https://leetcode.com/problems/subarray-sum-equals-k/submissions/1403345367/
 189 Rotate Array - https://leetcode.com/problems/rotate-array/description/
+1984 Minimum Difference Between Highest and Lowest of K Scores - https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/
