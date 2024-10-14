@@ -10,3 +10,4 @@
 849 Maximize Distance to Closest Person - https://leetcode.com/problems/maximize-distance-to-closest-person/
 34 Find First and Last Position of Element in Sorted Array - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 33 Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1422004176/
+206 Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/submissions/1422123793/
